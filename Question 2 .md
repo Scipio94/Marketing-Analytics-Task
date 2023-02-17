@@ -69,7 +69,7 @@ ORDER BY Count DESC;
 
 Use Acquisiton Channel Donations Avg Days Tab - Access results [HERE](https://docs.google.com/spreadsheets/d/1GeEYAo0l2VeqsY5q61uCPChsCm2qV40xmnArLA2CDvI/edit?usp=sharing)
 
-There is a direct correlation between donation amount number of days that elapse between first contact and first donation made. For example, the manual import segment in the acquisition channel column has the lowest average days until first donation and the largest total donation value as well as the second most total clicks in the last three months
+There is a direct correlation between donation amount number of days that elapses between first contact and first donation made. For example, the manual import segment in the acquisition channel column has the lowest average days until first donation and the largest total donation value as well as the second most total clicks in the last three months
 
 ### Conclusion
 
